@@ -1,0 +1,16 @@
+{
+    "resources": [
+        {
+            "name": "myCampus",
+            "url": "https://mycampus.iu.org/home"
+        },
+        {
+            "name": "IU Learn Platform",
+            "url": "https://learn.iu.org/home"
+        },
+        {
+            "name": "Prüfungs-Guide",
+            "url": "https://mycampus.iubh.de/course/view.php?id=5175"
+        }
+    ]
+}
